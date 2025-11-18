@@ -12,7 +12,7 @@
       "value": false
     },
     "appServicePlanSku": {
-      "value": "S1"
+      "value": "P1v4"
     },
     "openAiSkuName": {
       "value": "S0"
